@@ -1,0 +1,5 @@
+pip install num2fawords
+from num2fawords import words, ordinal_words
+from persian_tools import digits
+digits.convert_from_word('منفی صد')
+words(193)
